@@ -19,7 +19,7 @@ I am a **Full Stack Developer** with **1.5+ years** of professional experience b
   <tr>
     <td width="33%" valign="top">
       <b>Education</b><br/>
-      MCA (pursuing) and BCA (2025), IGNOU
+      BCA (Bachelor of Computer Applications) | 2025
     </td>
     <td width="33%" valign="top">
       <b>Location</b><br/>
