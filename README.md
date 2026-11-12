@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a **Full Stack Developer** with **1.5+ years** of professional experience building production-ready web and mobile applications. I build responsive **React / Next.js** interfaces, scalable **Node.js / Express / NestJS** APIs, and cross-platform apps with **React Native**.
+I am a **Full Stack Developer (MERN & React Native)** with **1.5+ years** of professional experience building production-ready web and mobile applications. I build responsive **React / Next.js** interfaces, scalable **Node.js / Express / NestJS** APIs, and cross-platform apps with **React Native**.
 
 <table>
   <tr>
@@ -23,11 +23,11 @@ I am a **Full Stack Developer** with **1.5+ years** of professional experience b
     </td>
     <td width="33%" valign="top">
       <b>Location</b><br/>
-      Uttar Pradesh, India
+      Lucknow, Uttar Pradesh, India
     </td>
     <td width="33%" valign="top">
       <b>Open to</b><br/>
-      Full Stack and React Native roles
+      Full Stack Developer & React Native Developer Roles
     </td>
   </tr>
 </table>
@@ -46,8 +46,8 @@ I am a **Full Stack Developer** with **1.5+ years** of professional experience b
 
 | Role | Company | Duration |
 |------|---------|----------|
-| Software Developer | **Elation SoftNet Pvt. Ltd.**, Lucknow | May 2026 - Present |
-| Software Developer | **Techpile Technology Pvt. Ltd.**, Lucknow | Apr 2025 - Apr 2026 |
+| Full Stack Developer (MERN & React Native) | **Elation SoftNet Pvt. Ltd.**, Lucknow | May 2026 - Present |
+| MERN Stack Developer | **Techpile Technology Pvt. Ltd.**, Lucknow | Apr 2025 - Apr 2026 |
 
 ---
 
