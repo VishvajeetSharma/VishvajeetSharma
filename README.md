@@ -13,7 +13,11 @@
 
 ## About Me
 
-I am a **Full Stack Developer (MERN & React Native)** with **1.5+ years** of professional experience building production-ready web and mobile applications. I build responsive **React / Next.js** interfaces, scalable **Node.js / Express / NestJS** APIs, and cross-platform apps with **React Native**.
+I am a **Full Stack Developer specializing in MERN Stack and React Native**, with **1.5+ years of professional experience** developing production-ready web and mobile applications.
+
+My expertise includes building modern, responsive interfaces using **React.js and Next.js**, developing scalable backend services and RESTful APIs with **Node.js, Express.js, and NestJS**, and creating cross-platform mobile applications using **React Native**.
+
+I have hands-on experience with **MongoDB, PostgreSQL, API architecture, authentication, authorization, and database management**. I focus on writing clean, maintainable code and developing secure, efficient, and scalable solutions to real-world problems.
 
 <table>
   <tr>
