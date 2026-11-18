@@ -17,7 +17,7 @@ I am a **Full Stack Developer specializing in MERN Stack and React Native**, wit
 
 My expertise includes building modern, responsive interfaces using **React.js and Next.js**, developing scalable backend services and RESTful APIs with **Node.js, Express.js, and NestJS**, and creating cross-platform mobile applications using **React Native**.
 
-I have hands-on experience with **MongoDB, PostgreSQL, API architecture, authentication, authorization, and database management**. I focus on writing clean, maintainable code and developing secure, efficient, and scalable solutions to real-world problems.
+I have hands-on experience with **MongoDB, MySQL, PostgreSQL, API architecture, authentication, authorization, and database management**. I focus on writing clean, maintainable code and developing secure, efficient, and scalable solutions to real-world problems.
 
 <table>
   <tr>
@@ -50,8 +50,8 @@ I have hands-on experience with **MongoDB, PostgreSQL, API architecture, authent
 
 | Role | Company | Duration |
 |------|---------|----------|
-| Full Stack Developer (MERN & React Native) | **Elation SoftNet Pvt. Ltd.**, Lucknow | May 2026 - Present |
-| MERN Stack Developer | **Techpile Technology Pvt. Ltd.**, Lucknow | Apr 2025 - Apr 2026 |
+| Full Stack Developer (MERN & React Native) | **Elation SoftNet Pvt. Ltd.**, Lucknow, Uttar Pradesh | May 2026 - Present |
+| MERN Stack Developer | **Techpile Technology Pvt. Ltd.**, Lucknow, Uttar Pradesh | Apr 2025 - Apr 2026 |
 
 ---
 
